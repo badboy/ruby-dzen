@@ -11,7 +11,7 @@ There are just 4 methods you need to know: `app`, `configure`, `before_run` and 
 
 The simplest way to use ruby-dzen is to define a simple app:
 
-    app :clock
+    app :clock do
       Time.now.strftime("%d.%m.%Y %H:%M")
     end
 
