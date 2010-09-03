@@ -92,6 +92,7 @@ This is exactly the way DZEN::Default and DZEN::Terminal are defined. See [dzen/
 
 ## ToDo
 
+* gemify it!
 * caching of apps (nearly finished, just need a proper API)
 * more ruby-ish way to switch output class
 
