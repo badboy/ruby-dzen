@@ -1,6 +1,5 @@
 # encoding: utf-8
 
-require 'dzen/cache'
 require 'dzen/helpers'
 require 'dzen/macros'
 require 'dzen/base'
